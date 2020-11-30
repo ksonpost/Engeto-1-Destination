@@ -43,3 +43,4 @@ print('Děkuji za rezervaci ' + jmeno)
 print('Tvoje rezervace je: ' + destinace)
 print('Celková cena je: ' + str(penize))
 
+#xxxx
