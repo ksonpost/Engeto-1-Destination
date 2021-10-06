@@ -11,7 +11,7 @@ oddelovac = ('=' *80)
 print(oddelovac)
 
 # pozdrav
-print('Welcome to the DESTINATIO, place where people plan their trips')
+print('Welcome to the DESTINATION, place where people plan their trips')
 
 # vzhled
 print(oddelovac)
@@ -42,5 +42,3 @@ penize = cena[zadej - 1]
 print('Děkuji za rezervaci ' + jmeno)
 print('Tvoje rezervace je: ' + destinace)
 print('Celková cena je: ' + str(penize))
-
-#xxxx
